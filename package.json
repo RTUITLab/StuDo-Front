@@ -11,7 +11,7 @@
     "axios": "^0.19.2",
     "ciao-vue-popup": "^1.0.20",
     "core-js": "^2.6.11",
-    "serialize-javascript": "^2.1.1",
+    "serialize-javascript": "^4.0.0",
     "v": "^0.3.0",
     "vue": "^2.6.11",
     "vue-cookies": "^1.6.1",
@@ -26,7 +26,7 @@
     "babel-eslint": "^10.0.1",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.0.0",
-    "serialize-javascript": "^2.1.1",
+    "serialize-javascript": "^4.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
